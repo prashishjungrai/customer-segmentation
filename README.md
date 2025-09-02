@@ -1,1 +1,1 @@
-# customer-segmentation
+Developed a machine learning model to segment customers based on purchasing behavior and demographics. Implemented clustering algorithms with optimized parameters for accurate group identification. Conducted exploratory data analysis and visualization to uncover hidden patterns and insights. Designed a scalable workflow using Python, Pandas, Scikit-learn, and Matplotlib for reproducible analysis.
